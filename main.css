@@ -204,7 +204,7 @@ main .rectangle .text__wrapper p {
 }
 main .rectangle--secondary {
   height: 400px;
-  background-image: url(./images/Rectangle\ truck.png);
+  background-image: url(./images/Rectangle_truck.png);
   background-position: center;
   max-width: 120rem;
   margin: auto;
@@ -227,7 +227,7 @@ main .rectangle--secondary .content p {
 }
 @media screen and (width < 1024px) {
   main .rectangle--secondary {
-    background-image: url(./images/Rectangle\ truck\ tablet.png);
+    background-image: url(./images/Rectangle_truck_tablet.png);
     background-size: cover;
     background-position: center;
   }
